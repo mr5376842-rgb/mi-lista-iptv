@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MeganoticiasTehuacan" tvg-name="Meganoticias Tehuacán" tvg-logo="https://meganoticias.mx" group-title="Locales Tehuacán",Meganoticias Tehuacán (Página Oficial)
+https://youtube.com
+
+#EXTINF:-1 tvg-id="TVBUAP" tvg-name="TV BUAP Tehuacán" group-title="Locales Tehuacán",TV BUAP Tehuacán
+https://github.io
+
+#EXTINF:-1 tvg-id="AztecaUno" tvg-name="Azteca Uno" group-title="Nacionales México",Azteca Uno
+https://github.io
+
+#EXTINF:-1 tvg-id="Azteca7" tvg-name="Azteca 7" group-title="Nacionales México",Azteca 7
+https://github.io
